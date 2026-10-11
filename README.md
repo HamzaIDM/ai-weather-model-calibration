@@ -173,7 +173,7 @@ Design choices worth noting:
 ## Reproducing the analysis
 
 ```bash
-git clone https://github.com/<your-username>/ai-weather-model-calibration.git
+git clone https://github.com/HamzaIDM/ai-weather-model-calibration.git
 cd ai-weather-model-calibration
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (Linux/macOS: source .venv/bin/activate)
