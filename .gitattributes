@@ -1,0 +1,4 @@
+* text=auto
+*.ipynb linguist-detectable=true
+*.pdf binary
+*.png binary

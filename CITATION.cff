@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Calibration of AI Weather Models Using Machine Learning"
+type: software
+authors:
+  - family-names: "Idrissi Meliani"
+    given-names: "Hamza"
+    affiliation: "Hassania School of Public Works (EHTP)"
+date-released: 2026-10-11
+license: MIT
+keywords:
+  - weather forecast calibration
+  - bias correction
+  - AI weather models
+  - statistical post-processing
+  - machine learning
+  - Morocco
+abstract: >-
+  Evaluation and machine-learning bias correction of eight AI weather models
+  (AIFS, Aurora, DLWP, FengWu, FourCastNet, FuXi, GraphCast, Pangu6) at 34
+  Moroccan stations. Temperature RMSE is reduced by 14.7% to 44.7% on a
+  time-ordered test set. Internship carried out at the General Directorate of
+  Meteorology of Morocco (DGM).

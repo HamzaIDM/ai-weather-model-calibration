@@ -1,0 +1,33 @@
+# Data: the DGM dataset is not redistributable
+data/*
+!data/README.md
+*.csv.gz
+results/tables/dataset_fusionn*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+.tectonic-cache/
